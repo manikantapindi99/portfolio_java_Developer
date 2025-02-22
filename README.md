@@ -1,4 +1,4 @@
-# Chelsea Tolnai - Full Stack Web Developer
+# Manikanta Pindi - Full Stack Web Developer
 
 I am a Full Stack Web Developer currently located in Rhode Island. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
 
