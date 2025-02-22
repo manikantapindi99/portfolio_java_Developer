@@ -103,7 +103,7 @@ a:focus, a:hover {
 .banner-info-w3l h2 {
     color: #fff;
     font-size: 2.5em;
-    text-align: center;
+    text-align: left;
     margin: 0;
     font-weight: 800;
     letter-spacing: 3px;
@@ -114,7 +114,7 @@ a:focus, a:hover {
 .banner-info-w3l h3 {
     color: #fff;
     font-size: 1em;
-    text-align: center;
+    text-align: left;
     font-weight: 600;
 	letter-spacing: 5px;
 	margin: 2em 0;
@@ -154,7 +154,7 @@ a:focus, a:hover {
 	width: 100%;
 	margin: 0 auto;
 	display: flex;
-	justify-content: center;
+	justify-content: left;
 	align-items: baseline; 
 }
 .banner-link {
