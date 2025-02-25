@@ -1,12 +1,12 @@
 # Manikanta Pindi - Full Stack Web Developer
 
-I am a Full Stack Web Developer currently located in Rhode Island. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
+I am a Full Stack Web Developer currently located in Saint Louis, Missouri. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
 
-You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.com).
+You can view my portfolio at  https://manikantapindi99.github.io/portfolio_java_Developer/.
 
 ## About Me
 
-I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques. At my current position as a Senior Development Engineer at CVS Health I lead a team of front end engineers working on the e-commerce site of healthcare's largest retailer.</p>
+I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques. At my current position as a Fullstack Java Development Engineer at Northern Trust I lead a team of front end engineers working on the e-commerce site of healthcare's largest retailer.</p>
 
 Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas. While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.</p>
 
