@@ -14,18 +14,17 @@ My legal and management positions bring a fresh prospective to techincal and lea
 
 ## Experience
 
-### CVS Health - Senior Development Engineer
+### Northern Trust - Java Fullstack Developer
 
-Develop, design, and deploy e-commerce sites for a Fortune 10 company, including
-[CVS.com/shop](https://www.cvs.com/shop). Manage team of frontend engineers through the project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams. Additional focuses on security, analytics, accessibility, ad injection and frontend architecture.
+Northern Trust is a global financial services company that provides asset management, wealth management, and banking services. It serves institutions, corporations, and individuals by offering services such as investment management, trust services, and financial consulting. The company is known for its focus on providing high-quality solutions to clients with complex financial needs.
 
-### CBTS - Software Engineer
+### Finra - Java Fullstack Developer
 
-Contracted Software Engineer working on-site at CVS Health.
+FINRA (Financial Industry Regulatory Authority) is a non-profit organization that regulates and oversees brokerage firms and their registered representatives in the United States. Its mission is to protect investors by ensuring that the securities industry operates fairly and honestly. FINRA sets rules and standards for the industry, conducts audits, and enforces regulations to maintain market integrity and prevent fraud. It also provides resources to educate investors and help resolve disputes.
 
-### Lambda School - Team Lead
+### Accenture - Java Fullstack Developer
 
-Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
+Accenture is a global professional services company that provides consulting, technology, and outsourcing services. It helps businesses improve their performance and navigate challenges through strategy, digital transformation, technology solutions, and operations management. Accenture works across various industries, including finance, healthcare, technology, and consumer goods, offering services such as IT consulting, cloud computing, cybersecurity, and more. The company is known for its innovation and expertise in helping clients achieve growth and efficiency.
 
 ## Education
 
